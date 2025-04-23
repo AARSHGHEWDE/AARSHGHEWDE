@@ -1,4 +1,12 @@
 # 👋 Hello there! I'm Aarsh Ghewde
+<p align="left">
+  <a href="https://linkedin.com/in/aarshghewde" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ghewdeaarsh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 🎓 Master’s in Data Science | Stevens Institute of Technology  
 💻 Passionate about Machine Learning, NLP, and Generative AI
